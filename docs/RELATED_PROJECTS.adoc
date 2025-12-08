@@ -41,15 +41,20 @@ This document tracks relationships, dependencies, and cross-linking opportunitie
 |===
 | Project | Purpose | Link | Status
 
+| Echidnabot
+| Formal validation and property-based testing
+| https://github.com/hyperpolymath/echidnabot
+| Repo exists (empty) - needs foundation
+
 | Rhodibot
 | RSR enforcement bot
-| To be created
-| Stub
+| https://github.com/hyperpolymath/rhodibot
+| Repo needed - 404
 
 | CADRE Router
 | Request routing framework
-| To be created
-| Stub
+| https://github.com/hyperpolymath/cadre-router
+| Repo needed - 404
 
 | Valence-Shell
 | Shell framework
@@ -169,8 +174,9 @@ Gitvisor supports documentation generation via:
 
 === Pending Links
 
-* [ ] Create CADRE router stub project
-* [ ] Create Rhodibot stub project
+* [ ] Populate echidnabot repo (exists but empty)
+* [ ] Create cadre-router repo (404)
+* [ ] Create rhodibot repo (404)
 * [ ] Find and link Valence-Shell from GitLab
 * [ ] Evaluate Universal-Project-Manager overlap
 * [ ] Port claude-gitlab-bridge code
@@ -213,14 +219,18 @@ Need to explore GitLab profile for additional projects.
 
 == Notes for Future Research
 
-=== CCCP
+=== CCCP (Campaign for Cooler Coding and Programming)
 
-The user mentioned "CCCP" multiple times but its definition wasn't clarified.
-Need to:
+CCCP is a philosophical umbrella for coding standards and practices.
+It represents a broader vision for ethical, well-designed software development.
 
-1. Ask user about CCCP scope and purpose
-2. Determine if it's a meta-project or framework
-3. Understand how Gitvisor fits within it
+Gitvisor fits within CCCP as:
+
+1. A tool embodying CCCP principles (customization, user control, ethical licensing)
+2. A practical implementation of RSR compliance
+3. A dashboard for managing CCCP-aligned repositories
+
+Note: CCCP discussions exist in regular Claude conversations, not in code repositories.
 
 === IndieWeb Integration
 
