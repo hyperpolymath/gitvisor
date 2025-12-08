@@ -1,0 +1,15 @@
+/* TEAM */
+Project: Gitvisor
+Site: https://gitvisor.dev
+Contact: https://github.com/hyperpolymath
+
+/* THANKS */
+ReScript Team - https://rescript-lang.org
+Elixir Team - https://elixir-lang.org
+The Elm Architecture - https://guide.elm-lang.org/architecture/
+Serum SSG - https://dalgona.github.io/Serum/
+
+/* SITE */
+Last update: 2024
+Standards: RSR Gold, WCAG 2.1 AA
+Software: Elixir, ReScript, Ada, Julia
