@@ -1,0 +1,36 @@
+= gitvisor - Citation Guide
+:toc:
+
+== BibTeX
+
+[source,bibtex]
+----
+@software{gitvisor_2025,
+  author = {Polymath, Hyper},
+  title = {gitvisor},
+  year = {2025},
+  url = {https://github.com/hyperpolymath/gitvisor},
+  license = {AGPL-3.0-or-later}
+}
+----
+
+== Harvard Style
+
+Polymath, H. (2025) _gitvisor_ [Computer software]. Available at: https://github.com/hyperpolymath/gitvisor
+
+== OSCOLA
+
+Hyper Polymath, 'gitvisor' (2025) <https://github.com/hyperpolymath/gitvisor>
+
+== MLA
+
+Polymath, Hyper. "gitvisor." 2025, github.com/hyperpolymath/gitvisor.
+
+== APA 7
+
+Polymath, H. (2025). _gitvisor_ [Computer software]. GitHub. https://github.com/hyperpolymath/gitvisor
+
+== See Also
+
+* link:../CITATION.cff[CITATION.cff]
+* link:../codemeta.json[codemeta.json]
