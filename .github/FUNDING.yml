@@ -1,8 +1,7 @@
-# Funding transparency per RSR requirements
-# These are funding links for the Gitvisor project
+# SPDX-License-Identifier: AGPL-3.0-or-later
+# Funding platforms for hyperpolymath projects
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
 
 github: hyperpolymath
-# ko_fi: # Add if applicable
-# open_collective: # Add if applicable
-# liberapay: # Add if applicable
-custom: []
+ko_fi: hyperpolymath
+liberapay: hyperpolymath
