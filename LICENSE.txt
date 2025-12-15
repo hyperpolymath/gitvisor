@@ -1,24 +1,19 @@
-SPDX-License-Identifier: MIT OR AGPL-3.0-or-later WITH Palimpsest-0.8
+SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
+SPDX-FileCopyrightText: 2024-2025 hyperpolymath
 
 ================================================================================
-DUAL LICENSE NOTICE
+DUAL LICENSE: MIT OR AGPL-3.0-or-later
 ================================================================================
 
-This project is available under your choice of the following licenses:
+This project is dual-licensed under the MIT License OR the GNU Affero General
+Public License v3.0 or later. You may choose to use, copy, modify, and
+distribute this work under the terms of EITHER license (your choice).
 
-1. MIT License (permissive)
-2. GNU Affero General Public License v3.0 or later (copyleft)
-
-Choose whichever license best suits your needs.
-
-Additionally, this project incorporates the Palimpsest License v0.8 as a
-philosophical overlay addressing emotional lineage and ethical use.
-
-================================================================================
+--------------------------------------------------------------------------------
 MIT LICENSE
-================================================================================
+--------------------------------------------------------------------------------
 
-Copyright (c) 2024-present The Gitvisor Contributors
+Copyright (c) 2024-2025 hyperpolymath
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -38,42 +33,59 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+--------------------------------------------------------------------------------
+GNU AFFERO GENERAL PUBLIC LICENSE v3.0 OR LATER
+--------------------------------------------------------------------------------
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+details.
+
+You should have received a copy of the GNU Affero General Public License along
+with this program. If not, see <https://www.gnu.org/licenses/>.
+
+The full text of the AGPL-3.0 is available at:
+  https://www.gnu.org/licenses/agpl-3.0.txt
+
+--------------------------------------------------------------------------------
+CHOOSING YOUR LICENSE
+--------------------------------------------------------------------------------
+
+You may choose to use this work under:
+  1. MIT License - Standard permissive open source license
+  2. AGPL-3.0-or-later - Copyleft license requiring source disclosure for
+     network services
+
+For most uses, MIT License provides maximum flexibility.
+For ensuring open source remains open (especially for SaaS/network services),
+AGPL-3.0-or-later provides stronger protections.
+
 ================================================================================
-GNU AFFERO GENERAL PUBLIC LICENSE v3.0
+PALIMPSEST PHILOSOPHICAL OVERLAY (NON-BINDING)
 ================================================================================
 
-For the complete AGPL-3.0 license text, see:
-https://www.gnu.org/licenses/agpl-3.0.txt
+This project encourages (but does not legally require) adherence to the
+principles of the Palimpsest License - a framework for consent-based digital
+interaction and the future web.
+
+Core Principles (Encouraged):
+  - Respect for emotional and creative lineage
+  - Transparent AI training practices with explicit consent
+  - Preservation of metadata and attribution
+  - Protection of narrative intent and cultural context
+
+The Palimpsest principles represent our vision for a consent-based internet.
+While not legally binding for use of this software, we encourage all users
+and contributors to familiarize themselves with these principles.
+
+Learn more: https://github.com/hyperpolymath/palimpsest-license
 
 ================================================================================
-PALIMPSEST LICENSE v0.8 (Philosophical Overlay)
-================================================================================
-
-This work carries an emotional lineage that must be preserved.
-
-1. EMOTIONAL CONTEXT PRESERVATION
-   Any derivative work must preserve information about the original context,
-   purpose, and cultural significance of this project.
-
-2. AI CONSENT FRAMEWORK
-   2.1 Interpretive AI (search, accessibility, translation): Permitted
-   2.2 Non-Interpretive AI (training, generation, cloning): Requires consent
-       Contact: [project maintainers] for AI training consent requests
-
-3. METADATA INTEGRITY
-   Attribution metadata must not be stripped, modified, or obscured.
-   This includes but is not limited to: author information, project history,
-   contribution records, and cultural context documentation.
-
-4. QUANTUM-RESILIENT ATTRIBUTION
-   This project uses post-quantum cryptographic signatures for attribution.
-   These signatures form part of the work's provenance chain.
-
-5. COMMUNITY GOVERNANCE
-   Decisions affecting this work's direction may be made collectively
-   according to the governance structure documented in GOVERNANCE.adoc.
-
-For the complete Palimpsest License, see:
-https://github.com/hyperpolymath/palimpsest-license
-
+END OF LICENSE
 ================================================================================
